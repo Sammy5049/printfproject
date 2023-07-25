@@ -8,6 +8,7 @@
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
  * @width: Width
+ *@prtpointer: pointer to be considered
  * @precision: Precision specification
  * @size: Size specifier
  * Return: Number of chars printed
